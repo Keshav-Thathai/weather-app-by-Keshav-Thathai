@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    height: 100vh;
+   align-items: center;
+   justify-content: center;
+    display:flex;
+    background: gold;
+}
+.box{
+    background: greenyellow;
+    padding: 30px;
+    border-radius: 15px;
+    width:300px;
+
+}
+input{
+   
+    margin-bottom: 10px;
+    padding: 10px;
+}
+button{
+    padding:10px 20px;
+    cursor:pointer;
+
+}
+h2{
+    margin-top:20px;
+}
